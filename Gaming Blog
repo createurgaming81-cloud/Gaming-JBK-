@@ -1,0 +1,229 @@
+here0<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gaming JBK</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#0d0d0d;
+    color:white;
+}
+
+header{
+    background:linear-gradient(90deg,#ff0000,#111);
+    text-align:center;
+    padding:40px;
+}
+
+header h1{
+    font-size:50px;
+    margin:0;
+}
+
+header p{
+    font-size:20px;
+}
+
+section{
+    max-width:1000px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:#1b1b1b;
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+}
+
+.card h2{
+    color:#ff2d2d;
+}
+
+.btn{
+    display:inline-block;
+    background:red;
+    color:white;
+    padding:15px 30px;
+    border-radius:30px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+footer{
+    text-align:center;
+    background:#111;
+    padding:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>🎮 Gaming JBK</h1>
+<p>Gameplay • eFootball • PPSSPP • GTA San Andreas</p>
+<a class="btn" href="#">S'abonner sur YouTube</a>
+</header>
+
+<section>
+<h2>Bienvenue</h2>
+
+<p>
+Bienvenue sur Gaming JBK !
+Retrouve des vidéos de gameplay, des astuces, des défis et du contenu autour de eFootball, PPSSPP, GTA San Andreas et bien d'autres jeux.
+</p>
+
+<div class="cards">
+
+<div class="card">
+<h2>⚽ eFootball</h2>
+<p>Gameplay, matchs, astuces et défis.</p>
+</div>
+
+<div class="card">
+<h2>🎮 PPSSPP</h2>
+<p>Les meilleurs jeux PSP et tutoriels.</p>
+</div>
+
+<div class="card">
+<h2>🚗 GTA San Andreas</h2>
+<p>Missions, mods, secrets et gameplay.</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Gaming JBK - Tous droits réservés.</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gaming JBK</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#0d0d0d;
+    color:white;
+}
+
+header{
+    background:linear-gradient(90deg,#ff0000,#111);
+    text-align:center;
+    padding:40px;
+}
+
+header h1{
+    font-size:50px;
+    margin:0;
+}
+
+header p{
+    font-size:20px;
+}
+
+section{
+    max-width:1000px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:#1b1b1b;
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+}
+
+.card h2{
+    color:#ff2d2d;
+}
+
+.btn{
+    display:inline-block;
+    background:red;
+    color:white;
+    padding:15px 30px;
+    border-radius:30px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+footer{
+    text-align:center;
+    background:#111;
+    padding:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>🎮 Gaming JBK</h1>
+<p>Gameplay • eFootball • PPSSPP • GTA San Andreas</p>
+<a class="btn" href="#">S'abonner sur YouTube</a>
+</header>
+
+<section>
+<h2>Bienvenue</h2>
+
+<p>
+Bienvenue sur Gaming JBK !
+Retrouve des vidéos de gameplay, des astuces, des défis et du contenu autour de eFootball, PPSSPP, GTA San Andreas et bien d'autres jeux.
+</p>
+
+<div class="cards">
+
+<div class="card">
+<h2>⚽ eFootball</h2>
+<p>Gameplay, matchs, astuces et défis.</p>
+</div>
+
+<div class="card">
+<h2>🎮 PPSSPP</h2>
+<p>Les meilleurs jeux PSP et tutoriels.</p>
+</div>
+
+<div class="card">
+<h2>🚗 GTA San Andreas</h2>
+<p>Missions, mods, secrets et gameplay.</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Gaming JBK - Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
